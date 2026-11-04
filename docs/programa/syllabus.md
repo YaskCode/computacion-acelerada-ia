@@ -23,10 +23,10 @@ Sesiones de clase, discusión de artículos científicos o arbitrados, laborator
 | [Fundamentos de la Computación Acelerada para Inteligencia Artificial](../temas/01-fundamentos.md) · [Sprint técnico 1](../sprints/01-ejecutar.md) | 10/11/2026 | 15 % |
 | [Optimización del Entrenamiento e Inferencia de Modelos de Inteligencia Artificial](../temas/02-optimizacion.md) · [Sprint técnico 2](../sprints/02-optimizar.md) | 17/11/2026 | 15 % |
 | [Escalabilidad e Infraestructura para Aplicaciones Modernas de Inteligencia Artificial](../temas/03-escalabilidad.md) · [Sprint técnico 3](../sprints/03-escalar.md) | 24/11/2026 | 15 % |
-| [Proyecto final](../proyecto-final/README.md) | 01/12/2026 | 50 % |
-| Participación, asistencia y documentación | Continua | 5 % |
+| [Proyecto final](../proyecto-final/README.md) | 01/12/2026 | 45 % |
+| Asistencia y participación | Continua | 10 % |
 
-Los laboratorios preparan y generan evidencias para los sprints correspondientes. Las [rúbricas](../rubricas/README.md) son propuestas de aplicación del plan oficial.
+Los laboratorios preparan y generan evidencias para los sprints correspondientes. Las [rúbricas](../rubricas/README.md) detallan cómo se aplica la ponderación de esta edición del curso. Esta tabla actualiza los pesos de evaluación del programa original incluido abajo.
 
 Fuentes primarias:
 

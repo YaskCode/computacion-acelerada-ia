@@ -1,6 +1,6 @@
 # Plataforma Inteligente Wellness 2.0 Escalable
 
-**Entrega:** 01/12/2026 · **Peso:** 50 %.
+**Entrega:** 01/12/2026 · **Peso:** 45 %.
 
 Evoluciona un componente existente de Wellness 2.0 desde su línea base hasta un servicio de IA optimizado e integrado. Sustenta qué mejora, bajo qué condiciones y qué falta para operar en producción.
 
