@@ -20,3 +20,8 @@ Asignatura de 32 horas y 2 unidades crédito. El trabajo práctico evoluciona la
 - [Flujo GitHub, integridad académica y uso responsable de IA](docs/politicas/README.md)
 
 El código y las entregas de cada equipo se mantienen en [YaskCode-laboratory](https://github.com/YaskCode-laboratory).
+
+## Documentos originales del curso
+
+- [Programa de la asignatura (PDF)](docs/programa/programa-computacion-acelerada-2026.pdf)
+- [Presentación del programa y del proyecto (PowerPoint)](docs/proyecto-final/programa-proyecto-computacion-acelerada.pptx)

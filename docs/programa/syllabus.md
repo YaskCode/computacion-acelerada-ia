@@ -28,4 +28,7 @@ Sesiones de clase, discusión de artículos científicos o arbitrados, laborator
 
 Los laboratorios preparan y generan evidencias para los sprints correspondientes. Las [rúbricas](../rubricas/README.md) son propuestas de aplicación del plan oficial.
 
-Fuentes primarias: *E-Programa Computacion Acelerada 2026.pdf* (enero de 2026, pp. 2–8) y *Programa Proyecto_computación Acelerada.pptx* (marco del proyecto y sprints).
+Fuentes primarias:
+
+- [E-Programa Computacion Acelerada 2026.pdf](programa-computacion-acelerada-2026.pdf), enero de 2026, pp. 2–8.
+- [Programa Proyecto_computación Acelerada.pptx](../proyecto-final/programa-proyecto-computacion-acelerada.pptx), marco del proyecto y sprints.
